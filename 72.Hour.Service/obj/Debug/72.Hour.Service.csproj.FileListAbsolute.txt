@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\71.Hour.Api\72.Hour.API\72.Hour.Service\bin\Debug\72.Hour.Service.dll.config
+C:\ElevenFiftyProjects\71.Hour.Api\72.Hour.API\72.Hour.Service\bin\Debug\72.Hour.Service.dll
+C:\ElevenFiftyProjects\71.Hour.Api\72.Hour.API\72.Hour.Service\bin\Debug\72.Hour.Service.pdb
+C:\ElevenFiftyProjects\71.Hour.Api\72.Hour.API\72.Hour.Service\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyProjects\71.Hour.Api\72.Hour.API\72.Hour.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFiftyProjects\71.Hour.Api\72.Hour.API\72.Hour.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyProjects\71.Hour.Api\72.Hour.API\72.Hour.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyProjects\71.Hour.Api\72.Hour.API\72.Hour.Service\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyProjects\71.Hour.Api\72.Hour.API\72.Hour.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFiftyProjects\71.Hour.Api\72.Hour.API\72.Hour.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyProjects\71.Hour.Api\72.Hour.API\72.Hour.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyProjects\71.Hour.Api\72.Hour.API\72.Hour.Service\obj\Debug\72.Hour.Service.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\71.Hour.Api\72.Hour.API\72.Hour.Service\obj\Debug\72.Hour.Service.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\71.Hour.Api\72.Hour.API\72.Hour.Service\obj\Debug\72.Hour.Service.csproj.CopyComplete
+C:\ElevenFiftyProjects\71.Hour.Api\72.Hour.API\72.Hour.Service\obj\Debug\72.Hour.Service.dll
+C:\ElevenFiftyProjects\71.Hour.Api\72.Hour.API\72.Hour.Service\obj\Debug\72.Hour.Service.pdb
